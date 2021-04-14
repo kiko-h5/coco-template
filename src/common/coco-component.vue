@@ -26,8 +26,8 @@
 //       "config": {
 //         "name": "coco-global-banner.0.0.1",
 //         "description": "全局banner组件",
-//         "js": "https://coco-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.umd.js",
-//         "css": "https://coco-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.css",
+//         "js": "https://kiko-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.umd.js",
+//         "css": "https://kiko-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.css",
 //         "index": 0
 //       },
 //       props: {
@@ -115,8 +115,8 @@
 //       "config": {
 //         "name": "coco-global-banner.0.0.1",
 //         "description": "全局banner组件",
-//         "js": "https://coco-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.umd.js",
-//         "css": "https://coco-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.css",
+//         "js": "https://kiko-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.umd.js",
+//         "css": "https://kiko-h5.github.io/coco-global-banner/coco-global-banner/coco-global-banner.0.0.1.css",
 //         "index": 0
 //       }
 //     }
@@ -133,7 +133,7 @@ import {
   xhrGet,
 } from './utils';
 
-document.domain = "localhost" // 设置同域
+//document.domain = "localhost" // 设置同域
 
 import CocoComponentsLoader from './coco-remote-component-loader';
 
