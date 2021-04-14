@@ -1,5 +1,5 @@
 <template>
-  <a>
+  <a :href="obj.link">
     <img
       :src="obj.src"
       width="100%"
